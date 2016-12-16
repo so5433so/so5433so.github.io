@@ -10,14 +10,13 @@ body {
     padding-top: 100px;
 }
 
-#logo img {
-    max-width: 150px;
-    border: 5px solid #fff;
-    border-radius:10%;
-    margin: 0 10px;
+
+
+#logo p {
+    margin: 0;
+    font-size:28px;
+    font-weight: bold;
 }
-
-
 
 div#site-menu{
    margin: 0;
