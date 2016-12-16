@@ -10,7 +10,6 @@ body {
     padding-top: 100px;
 }
 
-
 #logo img {
     max-width: 150px;
     border: 5px solid #fff;
@@ -54,6 +53,11 @@ nav ul li a.selected {
 
 navbar {
     border-radius: 0;
+}
+
+collapse navbar-collapse {
+    margin: 0 0 30px 0;
+    padding: 10px 0;
 }
 
 .container {
