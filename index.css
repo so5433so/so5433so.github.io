@@ -10,19 +10,6 @@ body {
     padding-top: 70px;
 }
 
-#logo img {
-    max-width: 150px;
-    border: 5px solid #fff;
-    border-radius:10%;
-    margin: 0 10px;
-}
-
-#logo p {
-    margin: 0;
-    font-size:28px;
-    font-weight: bold;
-}
-
 navbar-header{
     background: url("lv_logo2.JPG") no-repeat left center;
   background-size: contain;
