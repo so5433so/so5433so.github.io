@@ -71,13 +71,6 @@ head {
     background-color: #fff;
 }
 
-.navbar-brand {
-  background: url("lv_logo2.JPG") no-repeat left center;
-  background-size: contain;
-  height: 50px;
-  width: 250px;
-}
-
 footer {
     border: 1px 0.5px solid #000;
     background-color: #000;
