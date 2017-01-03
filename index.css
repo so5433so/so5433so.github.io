@@ -10,11 +10,11 @@ body {
     padding-top: 70px;
 }
 
-navbar-header{
-    background: url("lv_logo2.JPG") no-repeat left center;
+.navbar-brand {
+  background: url("lv_logo2.JPG") no-repeat left center;
   background-size: contain;
   height: 50px;
-  width: 250px;    
+  width: 250px;
 }
 
 div#site-menu{
