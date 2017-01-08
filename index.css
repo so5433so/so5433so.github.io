@@ -67,7 +67,7 @@ navbar navbar-default　{
 
 .border-panel {
     border: 2px ridge #000;
-    text-align: center;
+    text-align: left;
     margin: 20px;
     padding: 10px;
 }
