@@ -90,6 +90,10 @@ td, th {
     padding: 4px;
 }
 
+#pw {
+font-size:15px;
+}
+
 footer {
     border: 1px 0.5px solid #000;
     background-color: #000;
