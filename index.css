@@ -86,7 +86,7 @@ navbar navbar-default　{
     padding: 0 20px;
 }
 
-table td {
+table tbody tr td {
     padding:4px
 }
 
