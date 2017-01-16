@@ -86,6 +86,10 @@ navbar navbar-default　{
     padding: 0 20px;
 }
 
+.container {
+    padding: 0 20px;
+}
+
 td, th {
     padding: 4px;
 }
