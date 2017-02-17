@@ -91,7 +91,9 @@ navbar navbar-default　{
 }
 
 td, th {
-    padding: 10px;
+    font-family: cursive;
+    padding left: 8px;
+    padding right: 8px
 }
 
 footer {
