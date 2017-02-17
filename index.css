@@ -15,7 +15,9 @@ body {
     padding-top: 100px;
 }
 
-
+entry {
+    font-family: cursive;
+}
 
 nav ul li {
     margin: 0 10px;
