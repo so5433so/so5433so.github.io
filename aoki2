@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="favicon" href="http://leverages.jp/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="http://leverages.jp/favicon.ico" type="image/x-icon" />
+        <!-- BootstrapのCSS読み込み -->
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <link rel="stylesheet" href="index.css">
+        <!-- jQuery読み込み -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <!-- BootstrapのJS読み込み -->
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+        <title>大阪メンバー紹介</title>
+    </head>
+    <body style="font-family:'メイリオ',Meiryo;" link="black">
+        <header>
+            <nav class="navbar navbar-default navbar-fixed-top">
+              <div class="container-fluid">
+              <div class="navbar-header">
+
+              <div class="btn-group">
+                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                  Members
+                  <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu">
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="aoki.html"><font face="cursive">Daisuke.A</font></a></li>
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="yuto.html"><font face="cursive">Yuto.T</font></a></li>
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="shinagawa.html"><font face="cursive">Tomoya.S</font></a></li>
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="yamashita.html"><font face="cursive">Naho.Y</font></a></li>
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="doi.html"><font face="cursive">Ayaka.D</font></a></li>
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="katsura.html"><font face="cursive">Masashi.K</font></a></li>
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="toyosumi.html"><font face="cursive">Kaori.T</font></a></li>
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="tsujimoto.html"><font face="cursive">Yusuke.T</font></a></li>
+                </ul>
+              </div>
+            </nav>
+        </header>
+	<div class="col-md-12">
+                <div class="entry-content">
+                    <br>
+		    <h1><strong>自由に育ててくれた親に恩返しがしたい/青木大輔</strong></h1>
+                    <br>
+                    <br>
+                    <br>
+                    <p><img src="aoki1.JPG" alt="青木 大輔" width="1050px" height="450px" class="aligncenter size-large wp-image-1013"/></p><br>
+                    <h2>こんにちは!</h2>
+		　　<p>大阪支店でインターン中のレバレジーズキャリア内定者の奥村です！</p>
+                    <p>今週からなんと<strong>8週連続</strong>で大阪支店の社員さんのリレーインタビュー記事を配信していきます！！！！！</p>
+			<br>
+                    <p>まずはこの企画のチームメンバーを紹介！！！</p>
+                    <p>最初で最期の登場になります。だんじり大好き、タオル買ってください堀畑！</p>
+                    <p>プロテインのことならなんでも聞いてくれ、管理栄養士ドイちゃん！</p>
+                    <p>誘われればどこにでもついていきます、フットワークおばけカクちゃん！</p>
+                    <p>ペルーと日本のハーフですがなにか、中身はゴリゴリ日本人エリカ！
+                    <p>そして私、変態パンツ奥村（桂さん命名←）です！！</p>
+                    <br>
+                    <p>本日はまず、メディカル事業部新卒TOP営業マンさわやかイケメンの青木大輔さんに突撃してきました！</p>
+		</div>
+	</div>
+		<div class="col-md-9">
+			<div class="border-panel"><img src="aoki.png" alt="青木 大輔" width="10%" height="auto" class="alignleft size-medium wp-image-2349" style="float:left;margin:10px">
+				<p style="padding:10px">
+					<strong>青木 大輔さん / Daisuke Aoki</strong>
+					2016年4月入社
+					<br>
+					大学在学中にベンチャー企業にて３年間の営業を経験し、<br>
+					今年度よりレバレジーズに入社。<br/>
+					新卒研修中でトップの営業成績を残し、<br/>
+					期待の新卒として現在レバレジーズメディカル事業部大阪支店にてキャリアアドバイザーを担当。<br/>
+				</p> 
+			</div>
+		</div>
+                <br><br>
+	<div class="col-md-12">
+                <div class="container"><br>
+                        <br>
+			<br>
+                        <p><span class="intern-color"><strong>ー本日はよろしくお願いします。ではまずは青木さんのパーソナティーを知りたいと思っています。<br>                   
+                        ー青木さんは仕事以外では普段どんなことをされているのですか？</strong></span></p>
+                        <br>
+                        <p>休みの日はだいたい土曜日とかには仕事来てるか、仕事なかったら友達と遊んでるかのどっちかですね。</p>
+                        <p>買い物とかはあまりいく方ではなくて、夜に友達と遊んでいます。基本的に飲んでますね（笑）</p>
+                        <br>
+			<br>
+                        <p><span class="intern-color"><strong>ーちなみにですが好きな映画、書籍のなどを教えてください。</strong></span></p>
+                        <br>
+                        <p>好きな映画はブラッドピット主演のファイトクラブですね。</p>
+                        <p>他では、結構アクション映画が好きで、キングスマンっていうイギリスの映画には最近ハマってますね。</p>
+                        <p>他には親子愛を描いたリアルスティールとか。</p>
+			<br>
+                        <p>書籍に関しては、『入社一年目の教科書』です！</p>
+                        <p>本は読むものの同じ本ばかり読むので、この本は一年くらい前から読み始めて、何度も繰り返し読んでいます。</p>
+                        <p>人付き合い、仕事へのマインドセット、新人だけでなく社会人全般に求められる業務への取り組み方に関してなどが書かれていて、</p>
+                        <p>私のバイブルのようにしてますね。</p>
+			<br>
+                        <p>今更ですが、やはり本は仕事のためだけでなく、普段の生活を豊かにしてくれますよね</p>
+                      　<p>もちろん仕事ででもですが、プライベートでもふと読んだことが話のネタになったり、役立ったりするので。</p>
+                      　<p>内定者のみなさん向けに岩槻さんのオススメの書籍リストが届いていると思うので、どんどん本を読んでいってくださいね。</p>
+			<br>
+			<br>
+                      　<p><span class="intern-color"><strong>ーちなみになんですが、青木さんには憧れの人はいらっしゃいますか？</strong></span></p>
+                        <br>
+                        <p>二人いますね。一人は父親で、もう一人は本田圭佑です。</p>
+                        <p>父親は憧れというよりもロールモデルなんですが。</p>
+                        <p>忍耐力がすごくある点ですね。私の実家は自営業をやっていて、</p>
+                        <p>父親は家族を持ちながら、10年という長い年月のをかけて事業を軌道に乗せました。</p>
+                        <p>この話は、大学に入った時に知ったことなのですが、それを聞いた時は、</p>
+                        <p>10年間も一途に事業を軌道に乗せることに徹していた父親に感動をお覚えましたね。</p>
+			<br>
+                        <p>また、本田圭佑は、純粋に好きです（笑）</p>
+                        <p>あれだけリスクあることを人前に立って言えるところがすごい（笑）</p>
+                        <p>そもそも人に嫌われたくないとかいう感情とかに邪魔されないというか。</p>
+                        <p>中学校の時から挫折の繰り返しの人生だったらしく、それに打ち勝って来た逆境力があるなって思っていますね。</p>
+                        <p>できる人の共通点なのかもしれないですけど、逆境力って。</p>
+                        <br>
+			<br>
+                    <h3 class="tit-h3 intern">爆速で同年代から頭一つ抜けるためのキャリア選択</h3>
+                        <p><img src="aoki3.JPG" alt="仕事観" width="60%" height="auto" class="aligncenter size-large wp-image-982"/></p>
+			<br>
+			<br>
+			<br>
+                        <p><span class="intern-color"><strong>ー話は変わりますが、なぜレバを選ばれたんですか？</strong></span></p>
+                        <br>
+                        <p>まず、そもそもベンチャーを中心にみていたのですが、</p>
+                        <p>その理由はまず、2０代のうちに他の同年代の人たちよりも市場価値の高いビジネスパーソンになっておくには、</p>
+                        <p>急成長しているベンチャー企業で働きたいって思いがあったのが一つです。</p>
+                        <p>何故なら、20代のうちに、他の新卒の人たちから頭一つ抜けるためには、それなりの成長をしないといけない、</p>
+                        <p>となると成長している会社で成長しているノウハウを身につける必要があると思って、</p>
+                        <p>急成長している企業っていうのを一軸としてもっていました。</p>
+			<br>
+                        <p>あと、業界ですが最初から人材をやりたいと思っていました。ですが、それも多角的な領域での人材です。</p>
+                        <p>人材をやりたいと思ったきっかけが、自分が人に影響されやすい人間でして、</p>
+                        <p>大学生のときに自分を変えてくれた人とか、自分に新しい気づきを与えてくれた人を思い返してみると、</p>
+                        <p>その人たちってやっぱり他の人とは何かが違っていて、人への影響力がすごい人たちばっかりだったんですね。</p>
+                        <p>そこで、私も人に何か影響を与えられるようになりたいという目標ができました。</p>
+                        <p>じゃあ人に影響を与えられる人ってどんな人だろって考えた時、その人たちの共通点て、様々な経験していることだったんです。</p>
+                        <p>その人たちは、1つの会社に縛られないような、今で言うベンチャー色の強い人たちです（笑）</p>
+			<br>
+                        <p>多角的な領域での人材と言ったのは、その人たちに並べるような自分のキャリアを描いてみたときに、</p>
+                        <p>例えば1つの領域で人材に特化してる業界で働いてしまうと、自分の将来のキャリアの幅が狭まってしまうリスクがある。</p>
+                        <p>それってとても怖いことで、そういう理由があって、多角的な事業を展開していて、</p>
+                        <p>かつ業績を伸ばしている会社の方が、キャリアに幅ができると思ったんです。</p>
+                        <p>いわゆるリスクヘッジみたいなものです。</p>
+			<br>
+                        <p>ちなみにですが、ほんとはリクルートも受けたかったんです（笑）</p>
+                        <p>ただ、募集の時期にちょうど海外旅行に行っていて、その間にウェブテストの期限が終わってました（笑）大きなミス（笑）</p>
+                        <p>もし間に合っていたらマネジメントソリューションズを受けたかったのですが、、、</p>
+                        <p>でも結果だけ見ればレバで本当によかったと思っています。</p>
+                        <br>
+			<br>
+                    <h3 class="tit-h3 intern">青木さんにとって仕事のできる人とは</h3>
+                        <br/>
+                        <p><span class="intern-color"><strong>ー青木さんにとって仕事ができる人ってどんな人ですか？<br>
+                        また、青木さんが誰にも負けないポイントはなんだと思いますか？</strong></span></p>
+                        <br>
+                        <p>高橋悠人さんが私にとっての仕事ができる人の例なのですが、仕事ができる人は感情察知能力に長けている人だと思いますね。</p>
+                        <p>例えば、その人の表情や話しているトーンなどから、</p>
+                        <p>その人がどう言った心境でその話をしているのかをどれだけ深く感知できるか。</p>
+                        <p>その能力がずば抜けてる人は本当に仕事ができると思います。</p>
+                        <p>ですが感情察知能力は意図的に身につけられるものではないと思うので、こればかりは身につけようがないですね（笑）</p>
+			<br>
+                        <p>あと、自分の負けないポイントは、人を模倣することです。それに尽きます。</p>
+                        <p>もちろん自分の頭で考えることは大切ですが、新卒なのでまずは独自性をいきなり発揮するというより、</p>
+                        <p>とりあえず仕事のできる人を模倣してそれを自分に落とし込んで再現性をもたせることが</p>
+                        <p>最初は大事なんじゃないかなって思います。</p>
+			<br>
+                        <p>なので、ある程度の能力に到達してから自分の独自性を持ってやって行くことが、</p>
+                        <p>成長の最短ルートなんじゃないかなと思いますね。</p>
+                        <p>だから今でも人の日報を読んだり、ログを見てどんな話をしていたかをチェックしたり、</p>
+                        <p>モニタリングとかをするようにしています！最初は同期のモニタリングもしてましたね（笑）</p>
+                        <p>やっぱり、事業部全体で共有されているようなナレッジって、氷山の一角的なもので、</p>
+                        <p>言語化されてない感覚的なものであったりとか、</p>
+                        <p>そういうノウハウは自分で見て聞いて自分で学ぶ必要があると思います。</p>
+                        <br>
+			<br>
+                    <h3 class="tit-h3 intern">好きなことをさせてくれた親への恩返しがしたい</h3>
+                        <p><img src="aoki5.JPG" alt="夢" width="60%" height="auto" class="aligncenter size-large wp-image-985"/></p>
+                        <br>
+			<br>
+			<br>
+                        <p><span class="intern-color"><strong>ーそんな青木さんの今後の目標と人生の夢について教えてください！</strong></span></p>
+                        <br>
+                        <p>直近の目標は、1年半以内で事業部の中でリーダーになることです。</p>
+                        <p>なんで1年半かというと、それがメディカル事業部の新卒リーダーの最短記録だからです。</p>
+                        <p>リーダーになりたい理由は単純で、今より一つ上の視点で事業を見てみることで自分の視野を広げたいからです。</p>
+                        <p>だからまずはリーダーになりたい。</p>
+			<br>
+                        <p>そして、人生の目標ですが、父親と母親に恩返しをすることですね。</p>
+                        <p>父親と母親に幸せを届けたいです（笑）</p>
+                        <p>私が今まで生きてきた24年間、両親は私がやりたいことに対していつも反対をせず、肯定して意見を聞いてくれました。</p>
+                        <p>休学を決めたこともなにも言わずに認めてくれました。</p>
+                        <p>それってすごく恵まれた環境で育ったと思っていて、すごく自由にさせてくれました。</p>
+                        <p>自分にとってはとてもありがたいことで、本当に感謝しています。</p>
+			<br>
+                        <p>ですので、まずはお母さんにはブランドものをあげます。ブランドものが好きなので（笑）</p>
+                        <p>お父さんは旅行好きなので、旅行に連れて行ってあげたいですね。</p>
+                        <p>ずっと自営業で家にいるから海外に連れて言ってあげたいなと。</p>
+                        <br>
+			<br>
+                        <p><span class="intern-color"><strong>ーすてきな夢ですね！では最後にインターン生に一言お願いします！</strong></span></p>
+                        <br>
+                        <p>そうですね。同期を大切にしてください。</p>
+			<br>
+                        <p>こういう質問をすると正直この返事が多くないですか？（笑）</p>
+                        <p>最初私はいつも、うっさいねん！って思ってました（笑）</p>
+                        <p>でもこの時期になって思うのが、同期がいてよかったなってことですね。</p>
+                        <p>入社した頃、私はけっこうズケズケ言うタイプだったので、同期からは嫌われていました。</p>
+                        <p>その時は同期に嫌われるくらいどうでもいいわ！っていう感じでした。</p>
+                        <p>でもそれから2、3ヶ月経ってからですが一緒に仕事するようになり、</p>
+                        <p>飲みに行ったり、悩みや納得いかないことがあった時に話を聞いてくれたり、</p>
+                        <p>切磋琢磨して高め合ってくれるライバルになるのはいつも同期で、それでやっと気づいたんです。</p>
+                        <p>本当に同期がいてよかったなって。</p>
+                        <p>なので、私からもうるさいようですが、</p>
+                        <p>同期を大切にしてください。</p>
+                        <br>
+			<br>
+			<h1 class="tit-h3 intern">ー青木さん本日は本当にありがとうございました!</h1>
+			<h2>青木さんへのファンレター、コメントあれば以下のGoogleフォームへお願いします！</h2>
+			 <br>
+			 <br>
+			<p>またはインターンの私たちへのコメント等いただけるのでありましたら、嬉しいです！(同じくGoogleフォームへ)</p>
+			<br>
+			<iframe src="https://docs.google.com/a/leverages.jp/forms/d/e/1FAIpQLSdKT754YaDf5W8olhR4luJNZFQRLtzQrhn-LoMblX1ss6rzew/viewform?embedded=true" width="760" height="400" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
+			<br>
+				<hr size="5" color="black">
+				<br>
+				<br>
+				<h3>他の大阪メンバーはこちら！！(写真をクリック！)<br><br></h3>
+					<div>
+						<table border="0" align="center">
+							<tbody>
+								<tr>
+									<!--<td><a href="aoki.html" style="color:black;text-decoration:none"><img src="aoki.png" alt="青木 大輔" width="120px" height="auto" class="alignleft size-medium wp-image-971"/></a></td><br/>-->
+									<td><a href="yuto.html" style="color:black;text-decoration:none"><img src="yuto_face.png" alt="高橋　悠人" width="120px" height="auto" class="alignleft size-medium wp-image-971"/></a></td>
+                  <td><a href="shinagawa.html" style="color:black;text-decoration:none"><img src="shinagawa_face.png" alt="品川　智哉" width="120px" height="auto" class="alignleft size-medium wp-image-971"/></a></td><br/>
+									<td><a href="yamashita.html" style="color:black;text-decoration:none"><img src="yamashita_face.png" alt="山下　奈穂" width="120px" height="auto" class="alignleft size-medium wp-image-971"/></a></td><br/>
+									<td><a href="doi.html" style="color:black;text-decoration:none"><img src="doi_face.png" alt="土井　彩加" width="120px" height="auto" class="alignleft size-medium wp-image-971"/></a></td>
+									<td><a href="katsura.html" style="color:black;text-decoration:none"><img src="katsura_face.png" alt="桂　将士" width="120px" height="auto" class="alignleft size-medium wp-image-971"/></a></td>
+									<td><a href="toyosumi.html" style="color:black;text-decoration:none"><img src="toyosumi_face.png" alt="豊住 歌織" width="120px" height="auto" class="alignleft size-medium wp-image-971"/></a></td>
+									<td><a href="tsujimoto.html" style="color:black;text-decoration:none"><img src="tsujimoto_face.png" alt="辻本 悠祐" width="120px" height="auto" class="alignleft size-medium wp-image-971"/></a></td>
+								</tr>
+							</tbody>
+							<tfoot>
+								<tr>
+									<!--<td align="center"><h3><strong>Daisuke.A</strong></h3></td>-->
+									<td align="center"><h3>Yuto.T</h3></td>
+									<td align="center"><h3>Tomoya.S</h3></td>
+									<td align="center"><h3>Naho.Y</h3></td>
+									<td align="center"><h3>Ayaka.D</h3></td>
+									<td align="center"><h3>Masashi.K</h3></td>
+									<td align="center"><h3>Kaori.T</h3></td>
+									<td align="center"><h3>Yusuke.T</h3></td>
+								</tr>
+							</tfoot>
+						</table>
+						<br/>
+						<br/>
+						<br/>
+					</div>
+	    		<br/>
+			    <br/>
+			    <br/>
+	</div>
+	</div>
+        <footer>
+	    <div class="logo2"><img src="lv_logo.JPG" alt="leverages"></div>
+            <div class="copyright">© leverages_carrier_17</div>
+        </footer>
+    </body>
+</html>
